@@ -26,6 +26,8 @@ I'm Mila Kolpashnikova, a time-use researcher and a full-stack developer in <b>T
     <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-430098?style=flat-square&logo=digitalocean&logoColor=white" />
 </p>
 
+Jupyter Notebook = Python 😊 but also sometimes Julia
+
 ![Readme Card 1](https://github-readme-stats.vercel.app/api/top-langs/?username=Kolpashnikova&hide=Mathematica,html)
 ![Readme Card 2](https://github-readme-stats.vercel.app/api?username=Kolpashnikova&show_icons=true&theme=transparent)
 
