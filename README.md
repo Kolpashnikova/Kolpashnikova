@@ -3,9 +3,10 @@
 
 I'm Mila Kolpashnikova, a time-use researcher and a full-stack developer in <b>Toronto, Canada</b>. Check my blogs out on [my Django webiste](https://kamilakolpashnikova.com/) or [WordPress website](https://blogs.ubc.ca/kamilakolpashnikova/)
 
-<p><a href="https://github.com/Kolpashnikova" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<p>
 <a href="https://www.linkedin.com/in/kamilakolpashnikova" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://twitter.com/KKolpashnikova" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+<a href="https://twitter.com/KKolpashnikova" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.youtube.com/channel/UC9nsqkvdhRgzXhYr1P4dSaA" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 ## My stack
