@@ -1,4 +1,4 @@
-<h1><img src="view-source:https://emojis.slackmojis.com/emojis/images/1643515120/11401/among-us-dance.gif?1643515120" width="30"/> Hello! Welcome to my GitHub.</h1>
+<h1> Hello! Welcome to my GitHub.</h1>
 
 
 I'm Mila Kolpashnikova, a time-use researcher and a full-stack developer in <b>Toronto, Canada</b>. Check my blogs out on [my Django webiste](https://kamilakolpashnikova.com/) or [WordPress website](https://blogs.ubc.ca/kamilakolpashnikova/)
