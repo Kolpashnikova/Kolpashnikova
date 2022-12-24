@@ -7,6 +7,7 @@ I'm Mila Kolpashnikova, a time-use researcher and a full-stack developer in <b>T
 <a href="https://www.linkedin.com/in/kamilakolpashnikova" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://twitter.com/KKolpashnikova" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UC9nsqkvdhRgzXhYr1P4dSaA" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.buymeacoffee.com/milakolp" target="_blank"><img alt="Buy me a coffee" src="https://img.shields.io/badge/BuyMeACoffee-success.svg?&style=for-the-badge&logo=buymeacoffee&logoColor=white" /></a>
 </p>
 
 ## My stack
