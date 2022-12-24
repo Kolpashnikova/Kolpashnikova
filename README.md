@@ -20,7 +20,7 @@ I'm Mila Kolpashnikova, a time-use researcher and a full-stack developer in <b>T
     <img alt="TailwindUI" src="https://img.shields.io/badge/-TailwindUI-311C87?style=flat-square&logo=tailwind&logoColor=white" />
     <img alt="Django" src="https://img.shields.io/badge/-Django-007ACC?style=flat-square&logo=django&logoColor=white" />
     <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-5849BE?style=flat-square&logo=laravel&logoColor=white" />
-    <img alt="Jekyll" src="https://img.shields.io/badge/-Jekyll-764ABC?style=flat-square&logo=jekyll&logoColor=white" />
+    [//]: # <img alt="Jekyll" src="https://img.shields.io/badge/-Jekyll-764ABC?style=flat-square&logo=jekyll&logoColor=white" />
     <img alt="Vite" src="https://img.shields.io/badge/-Vite-B7178C?style=flat-square&logo=vite&logoColor=white" />
     <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-430098?style=flat-square&logo=digitalocean&logoColor=white" />
 </p>
