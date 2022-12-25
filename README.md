@@ -12,7 +12,7 @@ I'm Mila Kolpashnikova, a time-use researcher and a full-stack developer in <b>T
 
 ## My stack
 <p>  
-    <img alt="Python" src="https://img.shields.io/badge/-Python-8DD6F9?style=flat-square&logo=Python&logoColor=white" /> 
+    <img alt="Python" src="https://img.shields.io/badge/-Python-ffde57?style=flat-square&logo=Python&logoColor=white" /> 
     <img alt="R" src="https://img.shields.io/badge/-R-45b8d8?style=flat-square&logo=R&logoColor=white" />
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-2088FF?style=flat-square&logo=PHP&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-1a73e8?style=flat-square&logo=javascript&logoColor=white" />
