@@ -17,8 +17,8 @@ I'm Mila Kolpashnikova, a time-use researcher and a full-stack developer in <b>T
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=PHP&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" />
     <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-    <img alt="Stata" src="https://img.shields.io/badge/-Stata-46a2f1?style=flat-square&logo=Stata&logoColor=white" />
-    <img alt="TailwindUI" src="https://img.shields.io/badge/-TailwindUI-311C87?style=flat-square&logo=tailwind&logoColor=white" />
+    <img alt="Stata" src="https://img.shields.io/badge/-Stata-393c61?style=flat-square&logo=Stata&logoColor=white" />
+    <img alt="TailwindUI" src="https://img.shields.io/badge/-TailwindUI-46a2f1?style=flat-square&logo=tailwind&logoColor=white" />
     <img alt="Django" src="https://img.shields.io/badge/-Django-007ACC?style=flat-square&logo=django&logoColor=white" />
     <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-5849BE?style=flat-square&logo=laravel&logoColor=white" />
     <img alt="Jekyll" src="https://img.shields.io/badge/-Jekyll-764ABC?style=flat-square&logo=jekyll&logoColor=white" />
