@@ -15,7 +15,7 @@ I'm Mila Kolpashnikova, a time-use researcher and a full-stack developer in <b>T
     <img alt="Python" src="https://img.shields.io/badge/-Python-ffde57?style=flat-square&logo=Python&logoColor=white" /> 
     <img alt="R" src="https://img.shields.io/badge/-R-165caa?style=flat-square&logo=R&logoColor=white" />
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=PHP&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-1a73e8?style=flat-square&logo=javascript&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" />
     <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
     <img alt="Stata" src="https://img.shields.io/badge/-Stata-46a2f1?style=flat-square&logo=Stata&logoColor=white" />
     <img alt="TailwindUI" src="https://img.shields.io/badge/-TailwindUI-311C87?style=flat-square&logo=tailwind&logoColor=white" />
