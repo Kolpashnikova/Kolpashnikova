@@ -23,7 +23,7 @@ I'm Mila Kolpashnikova, a time-use researcher and a full-stack developer in <b>T
     <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F05340?style=flat-square&logo=laravel&logoColor=white" />
     <img alt="Jekyll" src="https://img.shields.io/badge/-Jekyll-808A82?style=flat-square&logo=jekyll&logoColor=white" />
     <img alt="Vite" src="https://img.shields.io/badge/-Vite-b44de0?style=flat-square&logo=vite&logoColor=white" />
-    <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-430098?style=flat-square&logo=digitalocean&logoColor=white" />
+    <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-008bcf?style=flat-square&logo=digitalocean&logoColor=white" />
 </p>
 
 Jupyter Notebook = Python 😊 but also sometimes Julia
