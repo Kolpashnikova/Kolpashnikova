@@ -28,8 +28,8 @@ I'm Mila Kolpashnikova, a time-use researcher and a full-stack developer in <b>T
 
 Jupyter Notebook = Python 😊 but also sometimes Julia
 
-![Readme Card 1](https://github-readme-stats.vercel.app/api/top-langs/?username=Kolpashnikova&hide=Mathematica,html)
-![Readme Card 2](https://github-readme-stats.vercel.app/api?username=Kolpashnikova&show_icons=true&theme=transparent)
+![Readme Card 1](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kolpashnikova&hide=Mathematica,html)
+![Readme Card 2](https://github-readme-stats-sigma-five.vercel.app/api?username=Kolpashnikova&show_icons=true&theme=transparent)
 
 ## Workshops that I run:
 
